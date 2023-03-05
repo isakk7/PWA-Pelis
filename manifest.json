@@ -1,0 +1,21 @@
+{
+    "short_name": "Page-movies",
+    "name": "Page-movies",
+    "icons": [
+        {
+            "src":"./images/icons/167.png",
+            "sizes":"167x167",
+            "type": "image/png"
+        },
+        {
+            "src":"./images/icons/102.png",
+            "sizes":"102x102",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "page.html",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#f9d627",
+    "description": "weather forecast information"
+}
